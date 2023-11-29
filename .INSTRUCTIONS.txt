@@ -1,0 +1,14 @@
+Thank You for being part of the beta test
+
+
+1. install python
+2. install pygame (from cmd)
+3. install mysql
+4. unzip all the data into the same folder
+
+5. always press confirm while inputting name and then press continue
+6. to exit any game press the x button on right top corner
+7. if your database username/password is different, please change it accordingly in lines(47,56,67,78)
+
+
+
